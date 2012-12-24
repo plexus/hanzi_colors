@@ -1,0 +1,16 @@
+{
+    words: [
+        {
+            zh_t: "陪",
+            translations : [
+                {
+                    english: "to accompany",
+                    pinyin: "péi",
+                    tone: 2
+                }
+            ]
+        }
+        
+    ]
+//陪你熬夜　聊天到爆肝也沒關係
+}
